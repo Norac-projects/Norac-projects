@@ -1,8 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d16,25:8A2BE2,50:6C63FF,75:00CFFF,100:0d0d16&height=240&section=header&text=NORAC%20PROJECTS&fontSize=70&fontColor=ffffff&animation=twinkling&desc=embedded%20systems%20//%20industrial%20control%20//%20no%20cloud%2C%20ever&descAlignY=66&fontAlignY=35" width="100%"/>
 
 <div align="center">
 
-<img src="logo.png" alt="Norac Projects Logo" width="200"/>
+<img src="Logo.png" alt="Norac Projects Logo" width="500"/>
 
 <br/>
 
