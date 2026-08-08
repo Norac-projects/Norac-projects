@@ -206,7 +206,7 @@ buy me a coffee — entirely optional, always appreciated, never expected.
 
 <div align="center">
 
-**₿ Bitcoin (BTC)**
+**₿ Bitcoin (BTC)** : 
 1Ka1cNmfhbNej9iiLzvfVzYqEZh2e1vbNk
 </div>
 
