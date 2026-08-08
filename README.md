@@ -34,7 +34,7 @@ these projects genuinely better, not just personally satisfying.
 So consider this less "here's my portfolio" and more "here's what I've been
 quietly building — tell me what's wrong with it."
 
-> 📍 `[Your city/country — or "Somewhere between a PLC rack and a terminal"]`
+> 📍 `Somewhere between a PLC rack and a terminal`
 > 🎓 `M.Sc. Electronic Engineering — Industrial Control Systems & PLCs`
 > 🔧 `Professional focus: Embedded Systems`
 > 💻 `Software development: a very serious hobby`
@@ -125,10 +125,28 @@ quietly building — tell me what's wrong with it."
 
 ## 💼 Experience
 
-> `[This section is yours to fill in — a couple of lines about your background,
-> years of experience, industries you've worked in, or the path from control
-> systems into embedded work. I don't want to invent a work history for you,
-> so drop the real details in here and I'll help polish the wording.]`
+
+It started with an ATmega chip, a breadboard, and more magic smoke than I'd
+like to admit to. From there it was a short, inevitable slide into designing
+my own PCBs — because at some point "just wire it by hand" stops being
+charming and starts being a fire hazard.
+
+PCBs led to robotics, because once you can design the board, you start
+wondering what happens if you bolt motors to it. Robotics led to Arduino,
+because sometimes you just want the thing to blink without re-deriving your
+own bootloader first. Arduino led properly into embedded systems, where I
+started actually understanding what I'd been doing by accident for years.
+
+Eventually that turned professional and industrial: PLCs and control
+systems — the kind of environment where a bug doesn't crash an app, it stops
+a production line, and everyone in the building finds out at the same time.
+
+Somewhere in the middle of all of it, I kept building little PC programs on
+the side — not for anyone else, just because I needed a tool that didn't
+exist yet and refused to wait for someone else to build it. That habit never
+really stopped. It just eventually got a GitHub account.
+
+**Currently:** still doing that.
 
 **What's already evident from the repos:**
 - Built and shipped **17+ standalone desktop applications** end-to-end — design, backend logic, packaging, and documentation
@@ -162,10 +180,10 @@ quietly building — tell me what's wrong with it."
 
 | Platform | Handle |
 |---|---|
-| 📷 Instagram | `[@your-handle]` |
-| ✈️ Telegram | `[@your-handle]` |
-| 🟠 Reddit | `[u/your-handle]` |
-| ✉️ Email | `[you@example.com]` |
+| ✉️ Email | `Norac-Projects@Proton.me` |
+| ✈️ Telegram | `@NoracProjects` |
+| 📷 Instagram | `@NoracProjects` |
+| 🟠 Reddit | `u/Norac-Projects` |
 
 </div>
 
@@ -189,3 +207,16 @@ buy me a coffee — entirely optional, always appreciated, never expected.
 <div align="center">
 
 **₿ Bitcoin (BTC)**
+1Ka1cNmfhbNej9iiLzvfVzYqEZh2e1vbNk
+</div>
+
+---
+
+<div align="center">
+
+
+<sub>🦊 <b>Norac Projects</b> — small, sharp tools for people who read the whole error message.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d16,25:00CFFF,50:6C63FF,75:8A2BE2,100:0d0d16&height=150&section=footer" width="100%"/>
